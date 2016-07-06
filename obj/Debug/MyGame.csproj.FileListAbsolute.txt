@@ -1,0 +1,95 @@
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\11-digger.exe.config
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\MyGame.MyForm.resources
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\pr.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Music\fon.mp3
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\bomb.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\bang.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\prd.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\shadow.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\bg.jpg
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Music\bang.mp3
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\present.png
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\Images\presentShadow.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\11-digger.exe.config
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\MyGame.MyForm.resources
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\C#\ЯТП практики-2\Mushroom\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\bang.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\bomb.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\present.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\presentShadow.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Music\bang.mp3
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\backGround.jpg
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\player.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\playerDirty.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Images\bombShadow.png
+D:\Programs\C#\ЯТП практики-2\Mushroom\bin\Debug\Music\backGround.mp3
+F:\Mushroom\bin\Debug\11-digger.exe.config
+F:\Mushroom\obj\Debug\11-digger.exe
+F:\Mushroom\obj\Debug\11-digger.pdb
+F:\Mushroom\bin\Debug\Images\bang.png
+F:\Mushroom\bin\Debug\Images\backGround.jpg
+F:\Mushroom\bin\Debug\Images\bomb.png
+F:\Mushroom\bin\Debug\Images\player.png
+F:\Mushroom\bin\Debug\Images\playerDirty.png
+F:\Mushroom\bin\Debug\Images\present.png
+F:\Mushroom\bin\Debug\Images\presentShadow.png
+F:\Mushroom\bin\Debug\Images\bombShadow.png
+F:\Mushroom\bin\Debug\Music\bang.mp3
+F:\Mushroom\bin\Debug\Music\backGround.mp3
+F:\Mushroom\bin\Debug\11-digger.exe
+F:\Mushroom\bin\Debug\11-digger.pdb
+F:\Mushroom\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+F:\Mushroom\obj\Debug\MyGame.MyForm.resources
+F:\Mushroom\obj\Debug\Digger.Properties.Resources.resources
+F:\Mushroom\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Mushroom\bin\Debug\11-digger.exe.config
+C:\Users\1\Desktop\Mushroom\obj\Debug\11-digger.exe
+C:\Users\1\Desktop\Mushroom\obj\Debug\11-digger.pdb
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\bang.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\backGround.jpg
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\bomb.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\player.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\playerDirty.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\present.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\presentShadow.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Images\bombShadow.png
+C:\Users\1\Desktop\Mushroom\bin\Debug\Music\bang.mp3
+C:\Users\1\Desktop\Mushroom\bin\Debug\Music\backGround.mp3
+C:\Users\1\Desktop\Mushroom\bin\Debug\11-digger.exe
+C:\Users\1\Desktop\Mushroom\bin\Debug\11-digger.pdb
+C:\Users\1\Desktop\Mushroom\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Mushroom\obj\Debug\MyGame.MyForm.resources
+C:\Users\1\Desktop\Mushroom\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\1\Desktop\Mushroom\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\11-digger.exe.config
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\11-digger.exe
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\11-digger.pdb
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\bang.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\backGround.jpg
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\bomb.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\player.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\playerDirty.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\present.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\presentShadow.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Images\bombShadow.png
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Music\bang.mp3
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\Music\backGround.mp3
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\11-digger.exe
+C:\Users\Артём\Desktop\Mushroom\bin\Debug\11-digger.pdb
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\MyGame.MyForm.resources
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Артём\Desktop\Mushroom\obj\Debug\MyGame.csproj.GenerateResource.Cache

@@ -1,0 +1,78 @@
+D:\Programs\Практика 12\bin\Debug\11-digger.exe.config
+D:\Programs\Практика 12\bin\Debug\Images\Digger.png
+D:\Programs\Практика 12\bin\Debug\Images\Gold.png
+D:\Programs\Практика 12\bin\Debug\Images\Monster.png
+D:\Programs\Практика 12\bin\Debug\Images\Sack.png
+D:\Programs\Практика 12\bin\Debug\Images\Terrain.png
+D:\Programs\Практика 12\bin\Debug\11-digger.exe
+D:\Programs\Практика 12\bin\Debug\11-digger.pdb
+D:\Programs\Практика 12\obj\Debug\12-digger.csprojResolveAssemblyReference.cache
+D:\Programs\Практика 12\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\Практика 12\obj\Debug\12-digger.csproj.GenerateResource.Cache
+D:\Programs\Практика 12\obj\Debug\11-digger.exe
+D:\Programs\Практика 12\obj\Debug\11-digger.pdb
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\11-digger.exe.config
+D:\Programs\ЯТП практики\Практика 12\obj\Debug\11-digger.exe
+D:\Programs\ЯТП практики\Практика 12\obj\Debug\11-digger.pdb
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Gold.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Monster.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Sack.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Terrain.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\11-digger.exe
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\11-digger.pdb
+D:\Programs\ЯТП практики\Практика 12\obj\Debug\12-digger.csprojResolveAssemblyReference.cache
+D:\Programs\ЯТП практики\Практика 12\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\ЯТП практики\Практика 12\obj\Debug\12-digger.csproj.GenerateResource.Cache
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Stone.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerL.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerR.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerUR.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerDR.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerDL.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\DiggerUL.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\Heart.png
+D:\Programs\ЯТП практики\Практика 12\bin\Debug\Images\HeartGrey.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\11-digger.exe.config
+D:\Programs\ЯТП практики\Digger\obj\Debug\11-digger.exe
+D:\Programs\ЯТП практики\Digger\obj\Debug\11-digger.pdb
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerDL.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerL.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerR.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerUL.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerUR.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\DiggerDR.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Heart.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\HeartGrey.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Stone.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Gold.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Monster.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Sack.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Terrain.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\11-digger.exe
+D:\Programs\ЯТП практики\Digger\bin\Debug\11-digger.pdb
+D:\Programs\ЯТП практики\Digger\obj\Debug\12-digger.csprojResolveAssemblyReference.cache
+D:\Programs\ЯТП практики\Digger\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\ЯТП практики\Digger\obj\Debug\12-digger.csproj.GenerateResource.Cache
+D:\Programs\ЯТП практики\Digger\obj\Debug\Digger.DiggerWindow.resources
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Game.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Over.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Win.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Map\Map.txt
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Picture.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Portal.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\Daimond.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Images\GoldScores.png
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Daimond.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Money.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Teleport.mp3
+D:\Programs\ЯТП практики\Digger\bin\Debug\Music\Death.mp3
+D:\Programs\C#\ЯТП практики-1\Digger\bin\Debug\11-digger.exe.config
+D:\Programs\C#\ЯТП практики-1\Digger\obj\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-1\Digger\obj\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\fuf\bin\Debug\11-digger.exe.config
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\11-digger.exe
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\11-digger.pdb
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\12-digger.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\Digger.DiggerWindow.resources
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\Digger.Properties.Resources.resources
+D:\Programs\C#\ЯТП практики-2\fuf\obj\Debug\12-digger.csproj.GenerateResource.Cache
